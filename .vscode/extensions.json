@@ -1,0 +1,8 @@
+{/* Extensões recomendadas */
+  "recommendations": [
+    "esbenp.prettier-vscode",/* Formata automaticamente o código */
+    "PKief.material-icon-theme",/* Melhora os ícones dos arquivos */
+    "rocketseat.theme-omni",/* Vai mudar o VSCode */
+    "ritwickdey.LiveServer"/* Observa as mudanças no arquivo sem precisar F5 */
+  ]
+}
